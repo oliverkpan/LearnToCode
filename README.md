@@ -13,9 +13,11 @@ A lot of the time, I get the question, "how do I learn to code"? Many of my peer
 1. **I'm not in CS, why do I need to learn?**
 
 Now that it is 2020, the world of technology is changing. Although some jobs do not require coding, it is important to understand how programs work. I guarantee you that throughout the day, you often encounter some sort of coding, whether it be through using your laptop, or browsing Instagram.
+
 2. **Only CS students get coding jobs.**
 
 That is not true! Although many CS programs are amazing, I don't believe you need a CS degree to go into developing! Check out [CS DOJO](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A). He is a Youtuber that goes through many coding questions and FAQs. This [video](https://www.youtube.com/watch?v=UPO-9iMjBpc) explains that you don't need a CS degree to develop. Many of the best developers come from very diverse backgrounds! Don't ever give up!
+
 3. **I don't know where to start**
 
 Well today is your lucky day! I am here to provide resources and to assist you with learning how to code. **Some of these resources will be useful for students pursuing CS as well**
