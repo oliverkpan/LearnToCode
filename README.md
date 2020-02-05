@@ -2,7 +2,7 @@
 
 I created this repository to help students learn to code. I will be consistently updating it and providing resources whenever I can. I have a strong belief that anyone can code, and if you put your heart to it, and have a desire to learn, you'll be very successful in this coding journey. Please feel free to fork this repository and contribute!
 
-*Last Updated February 4, 2020*
+*Last Updated February 5, 2020*
 
 **Why did I create this repo?**
 
