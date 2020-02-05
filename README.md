@@ -26,8 +26,33 @@ Well today is your lucky day! I am here to provide resources and to assist you w
 
 The first question you may want to ask yourself is "What is my goal?". This is because coding languages have different uses. Here is a small summary of what each language can do. Putting the most common languages for now.
 
-Python:
-![alt text](https://github.com/oliverkpan/LearnToCode/blob/master/images/python.png)
+![alt text](https://github.com/oliverkpan/LearnToCode/blob/master/images/python.png) Python
+
+I mainly use Python for various reasons. First, I am a data scientist/data-enthusiast. With Python, I am able to write machine learning programs, testing and training data. But back to basics, another reason that I really like Python is because it is a high-level programming language meaning that it isn't too hard to learn, and most coding beginners learn this as their first language. 
+When I first started coding, I created many small projects, some that can be found on my Github. Python is very fun, easy to learn, and can be used for a variety of things.
+
+![alt text](https://github.com/oliverkpan/LearnToCode/blob/master/images/java.png) Java
+
+Java is an interesting language. TBH, it is a little harder to understand, with all the syntax and coding format. However, it still is a very popular language and can be used for many reasons as well. If you are up for the challenge, you should try to learn Java. Many companies (SE positions) look for Java/C/C++ so I would suggest mastering this language to get a good shot for a Software Engineer Position.
+
+![alt text](https://github.com/oliverkpan/LearnToCode/blob/master/images/sql.png) SQL
+
+SQL is primary used for database management. Now there are many specifics with SQL, as well as the idea of relational databases vs. non-relational databases. I would suggest learning this language if you are interested in being a Data Analyst, Business Analyst, or Business Systems Analyst
+
+![alt text](https://github.com/oliverkpan/LearnToCode/blob/master/images/swift.png) Swift
+  
+Swift is mostly used for mobile development! With the use of XCode, you can write and create mobile apps, publishing them to the app store. Personally, I learned a bit of Swift using CodeAcademy, but I don't really use it. 
+
+#### Other Languages I will add Later
+
+C, C#, C++, PHP, Ruby, JS, HTML, CSS, and many more....
+
+
+
+
+
+
+
 
 
 
@@ -59,3 +84,5 @@ I have watched [Telusko](https://www.youtube.com/user/javaboynavin) on various o
 
 
 ## Sources
+
+[Major Corporations that still use Java](https://www.freelancinggig.com/blog/2018/08/29/what-big-companies-still-code-in-java-do-major-corporations-still-use-java/)
