@@ -1,8 +1,8 @@
 # Learn To Code by Oliver Pan
 
-I created this repository to help students learn to code. I will be consistently updating it and providing resources whenever I can. I have a strong belief that anyone can code, and if you put your heart to it, and have a desire to learn, you'll be very successful in this coding journey. Please feel free to fork this repository and contribute!
+I created this repository to help students learn to code. I will be consistently updating it and providing resources whenever I can. I have a strong belief that anyone can code, and if you put your heart to it, and have a desire to learn, you'll be very successful in this coding journey. Please feel free to fork this repository and contribute! I won't be teaching how to code, but I will be proving solid resources and tips to help you learn how to code.
 
-*Last Updated February 5, 2020*
+*Last Updated February 6, 2020*
 
 **Why did I create this repo?**
 
@@ -28,7 +28,7 @@ The first question you may want to ask yourself is "What is my goal?". This is b
 
 ![alt text](https://github.com/oliverkpan/LearnToCode/blob/master/images/python.png) Python
 
-I mainly use Python for various reasons. First, I am a data scientist/data-enthusiast. With Python, I am able to write machine learning programs, testing and training data. But back to basics, another reason that I really like Python is because it is a high-level programming language meaning that it isn't too hard to learn, and most coding beginners learn this as their first language. 
+I mainly use Python for various reasons. First, I am a data scientist/data-enthusiast. With Python, I am able to write machine learning programs, testing and training data. But back to basics, another reason that I really like Python is because it is a high-level programming language meaning that it isn't too hard to learn, and most coding beginners learn this as their first language.
 When I first started coding, I created many small projects, some that can be found on my Github. Python is very fun, easy to learn, and can be used for a variety of things.
 
 ![alt text](https://github.com/oliverkpan/LearnToCode/blob/master/images/java.png) Java
@@ -40,8 +40,8 @@ Java is an interesting language. TBH, it is a little harder to understand, with 
 SQL is primary used for database management. Now there are many specifics with SQL, as well as the idea of relational databases vs. non-relational databases. I would suggest learning this language if you are interested in being a Data Analyst, Business Analyst, or Business Systems Analyst
 
 ![alt text](https://github.com/oliverkpan/LearnToCode/blob/master/images/swift.png) Swift
-  
-Swift is mostly used for mobile development! With the use of XCode, you can write and create mobile apps, publishing them to the app store. Personally, I learned a bit of Swift using CodeAcademy, but I don't really use it. 
+
+Swift is mostly used for mobile development! With the use of XCode, you can write and create mobile apps, publishing them to the app store. Personally, I learned a bit of Swift using CodeAcademy, but I don't really use it.
 
 #### Other Languages I will add Later
 
@@ -76,9 +76,21 @@ Lets start with some resources that can jump start your coding career.
 
 I am a strong advocate for [CodeAcademy](https://www.codecademy.com/). I have used it in various occasions and I feel that they provide strong resources for self learning. There are many languages that they offer, and I suggest starting from there.
 
+**Sololearn**
+
+[Sololearn](https://www.sololearn.com/) is somewhat similar to CodeAcademy. I have used their mobile version and it's pretty good. It is pretty fun to try out and nice to start with if you never coded before.
+
 **Telusko (Python)**
 
 I have watched [Telusko](https://www.youtube.com/user/javaboynavin) on various occasions, particularly when I first started coding. OH MY! His youtube videos are very clear and he has a very strong understanding of Python. His playlist explains many data types and logic behind coding.
+
+**freeCodeCamp.org**
+
+This is the gem of youtube. [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) provides hours and hours of tutorials on various languages. However, some videos are hours long, so you have to be willing to watch and learn. I do recommend it if you are looking to go in depth with a particular language
+
+**TechLead**
+
+Not exactly someone to teach you all the technicals, but he really explains coding and engineering well. [Techlead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw) gives the reality of the job and his experiences throughout this career. Pretty fun to watch as well. (Shoutout to Richard)
 
 
 
